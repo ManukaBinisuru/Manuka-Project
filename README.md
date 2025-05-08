@@ -53,6 +53,7 @@ A seamless online shopping and interior design platform built using *React, Vite
 - *React Icons* – Vector icons
 
  ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/271666deea10e7f2024cbf08c8f9490e5785845f/icons8-react-80.png)
+ ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/60731bd6c439fcb668009e813347159b0407d93c/icons8-bootstrap-logo-48.png)
 
 ### Backend
 - *Azure Functions v4* – Serverless APIs
@@ -61,6 +62,9 @@ A seamless online shopping and interior design platform built using *React, Vite
 - *SQL Server* – User and design data storage
 - *Newtonsoft.Json* – JSON parsing
 - *PasswordHasher<T>* – Secure password hashing
+
+   ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/60731bd6c439fcb668009e813347159b0407d93c/icons8-sql-48.png)
+   ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/60731bd6c439fcb668009e813347159b0407d93c/icons8-azure-48.png)
 
 ---
 
