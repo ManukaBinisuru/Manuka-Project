@@ -53,7 +53,7 @@ A seamless online shopping and interior design platform built using *React, Vite
 - *React Icons* – Vector icons
 
  ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/271666deea10e7f2024cbf08c8f9490e5785845f/icons8-react-80.png)
- ![Image Alt]()
+ ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/a9c0d6a0317c2971328bbf1fb68a65dfd9f24f33/icons8-vite-logo-48.png)
  ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/60731bd6c439fcb668009e813347159b0407d93c/icons8-bootstrap-logo-48.png)
  ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/a3a245aeb22f9897b9b0c373f9748d4b5099ae21/msedge_niiOXNldKr.png)
 
