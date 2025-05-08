@@ -42,7 +42,7 @@ A seamless online shopping and interior design platform built using *React, Vite
 ## 🛠 Tech Stack
 
 ### Frontend
-- *React 19*
+- *React 19*  ![Image Alt](image_url)
 - *Vite* – Build tool for faster development
 - *React Router DOM* – Client-side routing
 - *Bootstrap 5* – Responsive layout and UI
