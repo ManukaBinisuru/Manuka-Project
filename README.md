@@ -42,7 +42,8 @@ A seamless online shopping and interior design platform built using *React, Vite
 ## 🛠 Tech Stack
 
 ### Frontend
-- *React 19*  ![Image Alt](image_url)
+
+- *React 19* 
 - *Vite* – Build tool for faster development
 - *React Router DOM* – Client-side routing
 - *Bootstrap 5* – Responsive layout and UI
@@ -50,6 +51,8 @@ A seamless online shopping and interior design platform built using *React, Vite
 - *Axios* – API requests
 - *Leva* – UI sliders and controls
 - *React Icons* – Vector icons
+
+ ![Image Alt](https://github.com/ManukaBinisuru/Manuka-Project/blob/271666deea10e7f2024cbf08c8f9490e5785845f/icons8-react-80.png)
 
 ### Backend
 - *Azure Functions v4* – Serverless APIs
